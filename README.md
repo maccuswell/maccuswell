@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maccuswell
-- 🌱 I’m currently learning how to set up a Sanity CMS.
+- 🌱 I’m currently using GitHub to publish a knowledge garden-style profile site.
 - 📫 How to reach me: emailme@stumax.com
 
 <!---
